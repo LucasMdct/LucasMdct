@@ -7,9 +7,9 @@
 💞️ I'm actively seeking opportunities to collaborate on exciting projects that challenge my problem-solving skills and allow me to contribute positively to the tech community.
 
 📫 You can reach out to me through:
-- LinkedIn: [Lucas Medeiros]((https://www.linkedin.com/in/medeirosdev))
-- Instagram: [@LucasMdct]((https://www.instagram.com/lucasmedct))
-- GitHub: [@LucasMdct]((https://github.com/LucasMdct/))
+- LinkedIn: [Lucas Medeiros](https://www.linkedin.com/in/medeirosdev)
+- Instagram: [@LucasMdct](https://www.instagram.com/lucasmedct)
+- GitHub: [@LucasMdct](https://github.com/LucasMdct/)
 - Website: [MedeirosDev](http://medeirosdev.cloud)
 
 Check out my repositories, and let's connect to explore the endless possibilities of tech together! 🚀
