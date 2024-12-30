@@ -10,7 +10,6 @@
 - LinkedIn: [Lucas Medeiros](https://www.linkedin.com/in/medeirosdev)
 - Instagram: [@LucasMdct](https://www.instagram.com/lucasmedct)
 - GitHub: [@LucasMdct](https://github.com/LucasMdct/)
-- Website: [MedeirosDev](http://medeirosdev.cloud)
 
 Check out my repositories, and let's connect to explore the endless possibilities of tech together! 🚀
 
